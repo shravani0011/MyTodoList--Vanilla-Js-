@@ -5,7 +5,7 @@
 } 
 
 body{
-    background-color: rgb(36, 3, 66);
+    background-image:linear-gradient(rgb(0, 255, 136),rgb(7, 92, 56));
     color: white;
     font-family: "poppins", sans-serif; 
     min-height: 100vh;
